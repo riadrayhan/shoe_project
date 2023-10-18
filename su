@@ -1,0 +1,58 @@
+[{
+		"id": "1",
+		"name": "Asus",
+		"price": "$340",
+		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
+		"imageurl": "https://trusttechbd.com/storage/media/JYQrBi8shekUHcYRZo40FjFTh797svUR6CJJtl9J.jpg",
+		"sub_des": "23 pieces"
+	},
+	{
+		"id": "2",
+		"name": "Asus Rog",
+		"price": "$550",
+		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
+		"imageurl": "https://www.scan.co.uk/images/products/3285714-a.jpg",
+		"sub_des": "27 pieces"
+	},
+	{
+		"id": "3",
+		"name": "Asus Rog z11",
+		"price": "$220",
+		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
+		"imageurl": "https://preview.redd.it/hs4ckkl35in61.png?width=640&crop=smart&auto=webp&s=4e2d573b39c1b617b08a3a1c8293a947f616fe4c",
+		"sub_des": "21 pieces"
+	},
+	{
+		"id": "4",
+		"name": "Dell OptiPlex",
+		"price": "$330",
+		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
+		"imageurl": "https://i.dell.com/is/image/DellContent/content/dam/ss2/products/desktops-and-all-in-ones/optiplex/3000-tsff/media-gallery/optiplex-3000t-gallery-4.psd?fmt=pjpg&pscan=auto&scl=1&wid=5000&hei=5000&qlt=100,1&resMode=sharp2&size=5000,5000&chrss=full&imwidth=5000",
+		"sub_des": "34 pieces"
+	},
+	{
+		"id": "5",
+		"name": "Dell Dimension XPS",
+		"price": "$430",
+		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
+		"imageurl": "https://images.anandtech.com/reviews/system/dell/dimensionxps/xps_dark.jpg",
+		"sub_des": "42 pieces"
+	},
+	{
+		"id": "6",
+		"name": "HP OMEN",
+		"price": "$570",
+		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
+		"imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM2IOdriFwGrh53O7qveJcndzxaqel4OD8hg&usqp=CAU",
+		"sub_des": "42 pieces"
+	},
+	{
+		"id": "7",
+		"name": "HP Pavilion",
+		"price": "$410",
+		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
+		"imageurl": "https://support.hp.com/doc-images/903/c03742269.jpg",
+		"sub_des": "21.5 inch"
+	}
+
+]
