@@ -25,7 +25,7 @@
 	{
 		"id": "4",
 		"name": "Dell Ultra",
-		"price": "$330",
+		"price": "$1330",
 		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
 		"imageurl": "https://i.dell.com/is/image/DellContent//content/dam/images/products/electronics-and-accessories/dell/monitors/c-series/c3422we/c3422we-cfp-00030lf095-bk.psd?fmt=png-alpha&pscan=auto&scl=1&hei=804&wid=1055&qlt=100,1&resMode=sharp2&size=1055,804&chrss=full",
 		"sub_des": "34 inch"
@@ -41,7 +41,7 @@
 	{
 		"id": "6",
 		"name": "Gaming Monitor",
-		"price": "$270",
+		"price": "$1270",
 		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
 		"imageurl": "https://i.pcmag.com/imagery/reviews/0031zevYTmgFby8OI98C9CC-1.fit_lim.size_840x473.v1681321051.jpg",
 		"sub_des": "42 inch"
@@ -49,7 +49,7 @@
 	{
 		"id": "7",
 		"name": "Acer Nitro",
-		"price": "$310",
+		"price": "$2310",
 		"description": "a shoe designed to be worn for sports, exercising, or recreational activity, as racquetball, jogging, or aerobic dancing",
 		"imageurl": "https://m.media-amazon.com/images/I/41GvlZdRNkL.jpg",
 		"sub_des": "21.5 inch"
